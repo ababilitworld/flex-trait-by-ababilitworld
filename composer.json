@@ -23,7 +23,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Ababilitworld\\FlexTraitByAbabilitworld\\Trait": "src/Trait"
+            "Ababilitworld\\FlexTraitByAbabilitworld\\Trait\\": "src/Trait"
         }
     },
     "repositories": [
