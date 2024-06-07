@@ -1,9 +1,10 @@
 {
     "name": "ababilitworld/flex-trait-by-ababilitworld",
-    "description": "A package for accessing common traits in PHP projects.",
+    "description": "A package for accessing common traits in PHP projects by Ababil IT World.",
     "keywords": ["php", "trait", "traits"],
     "type": "library",
     "license": "MIT",
+    "license_uri": "https://opensource.org/licenses/MIT",
     "authors": [
         {
             "name": "Ababil It World",
