@@ -1,6 +1,6 @@
 <?php
 
-namespace Ababilitworld\FlexTraitByAbabilitworld\Trait\Instance\Access;
+namespace Ababilitworld\FlexTraitByAbabilitworld\Instance\Access;
 
 trait Access 
 {

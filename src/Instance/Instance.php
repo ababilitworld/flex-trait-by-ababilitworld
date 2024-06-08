@@ -1,6 +1,6 @@
 <?php
 
-namespace Ababilitworld\FlexTraitByAbabilitworld\Trait\Instance;
+namespace Ababilitworld\FlexTraitByAbabilitworld\Instance;
 
 trait Instance 
 {
