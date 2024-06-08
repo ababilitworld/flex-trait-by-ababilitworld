@@ -1,8 +1,8 @@
 <?php
 
-namespace Ababilitworld\FlexTraitByAbabilitworld\Trait\StaticTrait;
+namespace Ababilitworld\FlexTraitByAbabilitworld\Trait\Instance\Access;
 
-trait StaticTrait 
+trait Access 
 {
     /**
      * Static Getter
