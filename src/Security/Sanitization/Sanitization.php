@@ -1,6 +1,6 @@
 <?php
 
-namespace Ababilitworld\FlexTraitByAbabilitworld\Trait\Security\Sanitization;
+namespace Ababilitworld\FlexTraitByAbabilitworld\Security\Sanitization;
 
 trait Sanitization 
 {
