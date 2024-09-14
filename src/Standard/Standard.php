@@ -10,5 +10,3 @@ trait Standard
 {
     use Instance, Asset, Access; 
 }
-
-?>
