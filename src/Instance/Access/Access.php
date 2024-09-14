@@ -34,5 +34,3 @@ trait Access
         }
     }
 }
-
-?>

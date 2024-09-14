@@ -15,5 +15,3 @@ trait Sanitization
         return htmlspecialchars(strip_tags($input), ENT_QUOTES, 'UTF-8');
     }
 }
-
-?>

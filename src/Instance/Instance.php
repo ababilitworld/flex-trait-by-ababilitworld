@@ -23,5 +23,3 @@ trait Instance
         return $instance;
     }
 }
-
-?>
